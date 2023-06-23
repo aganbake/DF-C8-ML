@@ -1,6 +1,6 @@
 
-A la fecha: por aca
+A la fecha: Fri Jun 23 2023 00:01:11 GMT-0400 (hora estándar de Chile)
 Fue realizada cotización con los siguientes datos:
 Cantidad de pesos a convertir: 25000 pesos
 Convertido a dolar da un total de:
-NaN
+31.17595710188303
