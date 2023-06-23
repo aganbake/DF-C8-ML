@@ -1,0 +1,6 @@
+
+A la fecha: por aca
+Fue realizada cotización con los siguientes datos:
+Cantidad de pesos a convertir: 25000 pesos
+Convertido a dolar da un total de:
+NaN
